@@ -1,2 +1,2 @@
 # Personal-Work-Portfolio
-This is my portfolio repo for deployment purpose.
+This is my portfolio repository for work purpose.
